@@ -1,0 +1,19 @@
+.container  {
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo   {
+    background-color: black;
+    border-bottom: solid 0.5px #989898;
+    padding: 1rem;
+    color: #989898;
+    font-size: 1.5rem;
+    
+}
+
+.deletex    {
+    height: 2rem;
+    width: 2rem;
+    margin: auto 1rem;
+}

@@ -1,0 +1,32 @@
+.App {
+  background-color: #282c34;
+  text-align: center;
+  background-image: url(../images/bg-desktop-dark.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 85%;
+  height: 50rem;
+  margin: auto;
+}
+
+.card {
+  width: 35%;
+  margin: auto;
+  position: relative;
+  top: 10rem;
+  
+}
+
+.border    {
+  border: solid green 5px; 
+}
+
+.container    {
+  flex: row;
+}
+
+
+
+
+
+
