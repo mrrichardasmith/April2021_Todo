@@ -8,8 +8,22 @@
     border-bottom: solid 0.5px #989898;
     padding: 1rem;
     color: #989898;
-    font-size: 1.5rem;
-    
+    font-size: 1.5rem;        
+}
+
+.todoCheck  {
+    width: 10%;
+    padding-top: 1rem;
+}
+
+.todoDesc   {
+    width: 80%;
+    text-align: left;
+}
+
+.todoDel    {
+    width: 10%;
+    margin: auto .5rem;
 }
 
 .deletex    {
@@ -17,3 +31,14 @@
     width: 2rem;
     margin: auto 1rem;
 }
+
+.circle {
+    background-color: #25273c;
+    border: 1px solid #989898;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 1.5rem;
+    width: 1.5rem;
+    margin: auto 0;
+    }
+

@@ -1,0 +1,11 @@
+.footerBar  {
+    background-color: black;
+    padding: 1rem;
+    color: #989898;
+    font-size: 1rem;        
+}
+
+.filters li   {
+    padding: 0 0.5rem;
+    list-style-type: none;
+}

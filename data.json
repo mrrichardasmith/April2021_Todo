@@ -1,8 +1,33 @@
 {
   "todo": [
     {
+      "id": 1,
+      "description": "Add the first thing to the llist",
+      "completed": false
+    },
+    {
       "id": 5,
-      "description": "ajax is listening for it",
+      "description": "Add another todo",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "description": "and another thing",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "description": "plus another",
+      "completed": false
+    },
+    {
+      "id": 11,
+      "description": "Does this work npw",
+      "completed": false
+    },
+    {
+      "id": 12,
+      "description": "how about npw",
       "completed": false
     }
   ]
